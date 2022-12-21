@@ -36,7 +36,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/bootstrap-app",
+            "outputPath": "docs/bootstrap-app",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
